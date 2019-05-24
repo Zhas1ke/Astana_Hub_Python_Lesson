@@ -1,1 +1,4 @@
 venv/
+Twisted-19.2.0-cp36-cp36m-win_amd64.whl
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
